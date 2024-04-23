@@ -70,8 +70,8 @@ This Repo provides source code of my all instagram post. This repository is your
 | Project Name               | Source Code                                         | Live Demo                                                |
 | -------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
 | Custom ToolTip             | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/573f024b08cd0cf0c596ad9851594986202f5b0c/Custom%20Tooltip%20Animation)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Custom%20Tooltip%20Animation) |
-| Happy Holi (Part 1)        | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/573f024b08cd0cf0c596ad9851594986202f5b0c/Happy%20Holi%20(Part%201))  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Happy%20Holi%20(Part%201) |
-| Happy Holi (Part 2)        | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/573f024b08cd0cf0c596ad9851594986202f5b0c/Happy%20Holi%20(Part2))  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Happy%20Holi%20(Part2) |
+| Happy Holi (Part 1)        | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/573f024b08cd0cf0c596ad9851594986202f5b0c/Happy%20Holi%20(Part%201))  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Happy%20Holi%20Part%201) |
+| Happy Holi (Part 2)        | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/573f024b08cd0cf0c596ad9851594986202f5b0c/Happy%20Holi%20Part%202)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Happy%20Holi%20(Part2) |
 
 
 

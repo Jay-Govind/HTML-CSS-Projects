@@ -19,7 +19,7 @@ body::before {
       transform: translate(-50%, -50%);
 }
 body::after {
-      content: "By GevStack";
+      content: "By devwithgovind";
       position: absolute;
       bottom: 36px;
       right: 36px;

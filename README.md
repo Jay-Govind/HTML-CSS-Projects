@@ -12,7 +12,7 @@ This Repo provides source code of my all instagram post. This repository is your
 
 | Project Name               | Source Code                                         | Live Demo                                                |
 | -------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
-| Download Button            | [Source Code]  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Download Button) |
+| Download Button            | [Source Code]  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Download%20Button) |
 | Flip Button                | [Source Code]  | [Live Demo] |
 
 

@@ -1,0 +1,48 @@
+body {
+    min-height: 100vh;
+    font-family: "Figtree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flip {
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #ecedf0;
+    padding: 3px;
+    perspective: 500px;
+    line-height: 50px;
+}
+
+.inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transform-style: preserve-3d;
+    transition: transform 1s;
+    pointer-events: none;
+}
+
+.front,
+.back {
+    color: white;
+    background-color: #2050e0;
+    border-radius: 30px;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    backface-visibility: hidden;
+    font-size: 16px;
+    font-weight: 500px;
+}
+
+.back {
+    transform: rotateX(180deg);
+}
+
+.flip:hover .inner{
+    transform: rotatex(180deg);
+}

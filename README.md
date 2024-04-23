@@ -24,6 +24,7 @@ This Repo provides source code of my all instagram post. This repository is your
 | 3D Product Card            | [Source Code]  | [Live Demo] |
 | Birthday Card              | [Source Code]  | [Live Demo] |
 | Card Detail on Hover       | [Source Code]  | [Live Demo] |
+| Card Hover Effect          | [Source Code]  | [Live Demo] |
 | Card Hover Reveal Text     | [Source Code]  | [Live Demo] |
 
 

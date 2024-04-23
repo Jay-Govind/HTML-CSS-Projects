@@ -12,6 +12,7 @@ This Repo provides source code of my all instagram post. This repository is your
 
 | Project Name               | Source Code                                         | Live Demo                                                |
 | -------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
+| Download Button            | [Source Code]  | [Live Demo] |
 | Flip Button                | [Source Code]  | [Live Demo] |
 
 
@@ -21,6 +22,7 @@ This Repo provides source code of my all instagram post. This repository is your
 | Project Name               | Source Code                                         | Live Demo                                                |
 | -------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
 | 3D Product Card            | [Source Code]  | [Live Demo] |
+| Birthday Card              | [Source Code]  | [Live Demo] |
 | Card Detail on Hover       | [Source Code]  | [Live Demo] |
 | Card Hover Reveal Text     | [Source Code]  | [Live Demo] |
 
@@ -52,6 +54,7 @@ This Repo provides source code of my all instagram post. This repository is your
 
 
 ## Login Form
+
 | Project Name               | Source Code                                         | Live Demo                                                |
 | -------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
 | Drop Login Form            | [Source Code]  | [Live Demo] |
@@ -68,6 +71,16 @@ This Repo provides source code of my all instagram post. This repository is your
 | Custom ToolTip             | [Source Code]  | [Live Demo] |
 | Happy Holi (Part 1)        | [Source Code]  | [Live Demo] |
 | Happy Holi (Part 2)        | [Source Code]  | [Live Demo] |
+
+
+
+## Nav Bar
+
+| Project Name               | Source Code                                         | Live Demo                                                |
+| -------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
+| Magic Navigation           | [Source Code]  | [Live Demo] |
+
+
 
 
 For more resources and inspiration, check out websites like W3Schools, MDN Web Docs. These platforms offer comprehensive guides, tutorials, and code examples to support your learning journey. 📚💡

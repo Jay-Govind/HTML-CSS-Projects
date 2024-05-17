@@ -14,6 +14,7 @@ This Repo provides source code of my all instagram post. This repository is your
 | -------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
 | Download Button            | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/573f024b08cd0cf0c596ad9851594986202f5b0c/Download%20Button)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Download%20Button) |
 | Flip Button                | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/573f024b08cd0cf0c596ad9851594986202f5b0c/Flip%20Button)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Flip%20Button) |
+| Toggle-Button              | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/f9c97491c3dd315118820f461a9ae3a88f160be2/Toggle-Button)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Toggle-Button) |
 
 
 

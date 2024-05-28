@@ -31,7 +31,7 @@ This Repo provides source code of my all instagram post. This repository is your
 
 
 
-## Effects
+## Animation
 
 | Project Name               | Source Code                                         | Live Demo                                                |
 | -------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
@@ -41,6 +41,7 @@ This Repo provides source code of my all instagram post. This repository is your
 | Blooming Flower            | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/ca3dddd5fb95f89fb5a8732f9a92556766d564d8/Blooming%20Flower)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Blooming%20Flower) |
 | Control Brightness         | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/def6c1d89973026be4f4e08586336df99588f7e0/Control%20Brightness)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Control%20Brightness) |
 | Cursor Movement            | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/573f024b08cd0cf0c596ad9851594986202f5b0c/Cursor%20Movement)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Cursor%20Movement) |
+| Ferris Wheel               | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/14a09f921dd92ca4b42e2eb0428e18fda99e7e0f/Ferris%20Wheel)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Ferris%20Wheel) |
 | Heart Rate                 | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/573f024b08cd0cf0c596ad9851594986202f5b0c/Heart%20Rate)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Heart%20Rate) |
 | Image Gallary              | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/24db6b0952d1e54404c40ad0140b2eed965ec078/Image%20Gallary)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Image%20Gallary) |
 | Snowfall                   | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/36318e02e81a94ca437ed690266d7427402775fa/Snowfall)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Snowfall) |
@@ -61,11 +62,12 @@ This Repo provides source code of my all instagram post. This repository is your
 
 
 
-## Form
+## Login
 
 | Project Name               | Source Code                                         | Live Demo                                                |
 | -------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
 | Drop Login Form            | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/573f024b08cd0cf0c596ad9851594986202f5b0c/Drop%20Login%20Form)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Drop%20Login%20Form) |
+| Fingerprint Login          | [Source Code]()  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Fingerprint%20Login) |
 | Hacker Login Form          | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/573f024b08cd0cf0c596ad9851594986202f5b0c/Hacker%20Login%20Form)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Hacker%20Login%20Form) |
 | Login Form                 | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/573f024b08cd0cf0c596ad9851594986202f5b0c/Login%20Form)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Login%20Form) |
 | Sign Up Form               | [Source Code](https://github.com/Jay-Govind/HTML-CSS-Projects/tree/573f024b08cd0cf0c596ad9851594986202f5b0c/Sign%20Up%20Form)  | [Live Demo](https://jay-govind.github.io/HTML-CSS-Projects/Sign%20Up%20Form) |
